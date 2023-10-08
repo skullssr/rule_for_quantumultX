@@ -1,23 +1,28 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-05-22 02:11:11
-# HOST: 12
-# HOST-KEYWORD: 31
-# HOST-SUFFIX: 6329
-# IP-CIDR: 88
+# UPDATED: 2023-10-02 02:11:54
+# HOST: 17
+# HOST-KEYWORD: 30
+# HOST-SUFFIX: 6331
+# IP-CIDR: 94
 # IP6-CIDR: 3
 # USER-AGENT: 9
-# TOTAL: 6472
+# TOTAL: 6484
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
 HOST,cdp.cloud.unity3d.com,Proxy
+HOST,chat.openai.com.cdn.cloudflare.net,Proxy
 HOST,cloud.oracle.com,Proxy
 HOST,cvws.icloud-content.com,Proxy
 HOST,developer.apple.com,Proxy
 HOST,lens.l.google.com,Proxy
+HOST,openaiapi-site.azureedge.net,Proxy
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,Proxy
+HOST,openaicomproductionae4b.blob.core.windows.net,Proxy
 HOST,p16-tiktokcdn-com.akamaized.net,Proxy
+HOST,production-openaicom-storage.azureedge.net,Proxy
 HOST,services.googleapis.cn,Proxy
 HOST,testflight.apple.com,Proxy
 HOST,voice.telephony.goog,Proxy
@@ -37,14 +42,11 @@ HOST-SUFFIX,12vpn.com,Proxy
 HOST-SUFFIX,12vpn.net,Proxy
 HOST-SUFFIX,1337x.to,Proxy
 HOST-SUFFIX,138.com,Proxy
-HOST-SUFFIX,14.102.250.18,Proxy
-HOST-SUFFIX,14.102.250.19,Proxy
 HOST-SUFFIX,141hongkong.com,Proxy
 HOST-SUFFIX,141jj.com,Proxy
 HOST-SUFFIX,141tube.com,Proxy
 HOST-SUFFIX,1688.com.au,Proxy
 HOST-SUFFIX,173ng.com,Proxy
-HOST-SUFFIX,174.142.105.153,Proxy
 HOST-SUFFIX,177pic.info,Proxy
 HOST-SUFFIX,17t17p.com,Proxy
 HOST-SUFFIX,18board.com,Proxy
@@ -125,17 +127,12 @@ HOST-SUFFIX,64tianwang.com,Proxy
 HOST-SUFFIX,64wiki.com,Proxy
 HOST-SUFFIX,66.ca,Proxy
 HOST-SUFFIX,666kb.com,Proxy
-HOST-SUFFIX,67.220.91.15,Proxy
-HOST-SUFFIX,67.220.91.18,Proxy
-HOST-SUFFIX,67.220.91.23,Proxy
-HOST-SUFFIX,69.65.19.160,Proxy
 HOST-SUFFIX,6do.news,Proxy
 HOST-SUFFIX,6park.com,Proxy
 HOST-SUFFIX,6parkbbs.com,Proxy
 HOST-SUFFIX,6parker.com,Proxy
 HOST-SUFFIX,6parknews.com,Proxy
 HOST-SUFFIX,7-zip.org,Proxy
-HOST-SUFFIX,72.52.81.22,Proxy
 HOST-SUFFIX,7capture.com,Proxy
 HOST-SUFFIX,7cow.com,Proxy
 HOST-SUFFIX,8-d.com,Proxy
@@ -227,7 +224,6 @@ HOST-SUFFIX,agro.hk,Proxy
 HOST-SUFFIX,ahcdn.com,Proxy
 HOST-SUFFIX,ai-kan.net,Proxy
 HOST-SUFFIX,ai-wen.net,Proxy
-HOST-SUFFIX,ai.com,Proxy
 HOST-SUFFIX,ai.google,Proxy
 HOST-SUFFIX,aiph.net,Proxy
 HOST-SUFFIX,airasia.com,Proxy
@@ -389,6 +385,7 @@ HOST-SUFFIX,appsocks.net,Proxy
 HOST-SUFFIX,appspot.com,Proxy
 HOST-SUFFIX,appsto.re,Proxy
 HOST-SUFFIX,aptoide.com,Proxy
+HOST-SUFFIX,ar.hao123.com,Proxy
 HOST-SUFFIX,arcgis.com,Proxy
 HOST-SUFFIX,archive.fo,Proxy
 HOST-SUFFIX,archive.is,Proxy
@@ -557,6 +554,7 @@ HOST-SUFFIX,berlinerbericht.de,Proxy
 HOST-SUFFIX,berlintwitterwall.com,Proxy
 HOST-SUFFIX,berm.co.nz,Proxy
 HOST-SUFFIX,bestforchina.org,Proxy
+HOST-SUFFIX,bestgore.com,Proxy
 HOST-SUFFIX,bestpornstardb.com,Proxy
 HOST-SUFFIX,bestvpn.com,Proxy
 HOST-SUFFIX,bestvpnanalysis.com,Proxy
@@ -1071,6 +1069,7 @@ HOST-SUFFIX,civilhrfront.org,Proxy
 HOST-SUFFIX,civiliangunner.com,Proxy
 HOST-SUFFIX,civilmedia.tw,Proxy
 HOST-SUFFIX,civisec.org,Proxy
+HOST-SUFFIX,civitai.com,Proxy
 HOST-SUFFIX,cjb.net,Proxy
 HOST-SUFFIX,ck101.com,Proxy
 HOST-SUFFIX,cl.ly,Proxy
@@ -1088,6 +1087,7 @@ HOST-SUFFIX,clien.net,Proxy
 HOST-SUFFIX,clinica-tibet.ru,Proxy
 HOST-SUFFIX,clipfish.de,Proxy
 HOST-SUFFIX,cloakpoint.com,Proxy
+HOST-SUFFIX,cloud.cupronickel.goog,Proxy
 HOST-SUFFIX,cloudcone.com,Proxy
 HOST-SUFFIX,cloudflare-ipfs.com,Proxy
 HOST-SUFFIX,cloudflare.com,Proxy
@@ -1374,6 +1374,7 @@ HOST-SUFFIX,dizhuzhishang.com,Proxy
 HOST-SUFFIX,djangosnippets.org,Proxy
 HOST-SUFFIX,djorz.com,Proxy
 HOST-SUFFIX,dl-laby.jp,Proxy
+HOST-SUFFIX,dler.io,Proxy
 HOST-SUFFIX,dlercloud.com,Proxy
 HOST-SUFFIX,dlive.tv,Proxy
 HOST-SUFFIX,dlsite.com,Proxy
@@ -2447,6 +2448,7 @@ HOST-SUFFIX,greenpeace.org,Proxy
 HOST-SUFFIX,greenreadings.com,Proxy
 HOST-SUFFIX,greenvpn.net,Proxy
 HOST-SUFFIX,greenvpn.org,Proxy
+HOST-SUFFIX,grindr.com,Proxy
 HOST-SUFFIX,grotty-monday.com,Proxy
 HOST-SUFFIX,grow.google,Proxy
 HOST-SUFFIX,gs-discuss.com,Proxy
@@ -2846,6 +2848,7 @@ HOST-SUFFIX,imagezilla.net,Proxy
 HOST-SUFFIX,imb.org,Proxy
 HOST-SUFFIX,imdb.com,Proxy
 HOST-SUFFIX,img.ly,Proxy
+HOST-SUFFIX,imgasd.com,Proxy
 HOST-SUFFIX,imgchili.net,Proxy
 HOST-SUFFIX,imgmega.com,Proxy
 HOST-SUFFIX,imgur.com,Proxy
@@ -2943,7 +2946,6 @@ HOST-SUFFIX,isohunt.com,Proxy
 HOST-SUFFIX,israbox.com,Proxy
 HOST-SUFFIX,issuu.com,Proxy
 HOST-SUFFIX,istars.co.nz,Proxy
-HOST-SUFFIX,istarshine.com,Proxy
 HOST-SUFFIX,istef.info,Proxy
 HOST-SUFFIX,istiqlalhewer.com,Proxy
 HOST-SUFFIX,istockphoto.com,Proxy
@@ -3253,6 +3255,7 @@ HOST-SUFFIX,lflinkup.org,Proxy
 HOST-SUFFIX,lfpcontent.com,Proxy
 HOST-SUFFIX,lhakar.org,Proxy
 HOST-SUFFIX,lhasocialwork.org,Proxy
+HOST-SUFFIX,li.taipei,Proxy
 HOST-SUFFIX,liangyou.net,Proxy
 HOST-SUFFIX,liangzhichuanmei.com,Proxy
 HOST-SUFFIX,lianyue.net,Proxy
@@ -3591,6 +3594,7 @@ HOST-SUFFIX,monar.ch,Proxy
 HOST-SUFFIX,mondex.org,Proxy
 HOST-SUFFIX,money-link.com.tw,Proxy
 HOST-SUFFIX,moneyhome.biz,Proxy
+HOST-SUFFIX,monica.im,Proxy
 HOST-SUFFIX,monitorchina.org,Proxy
 HOST-SUFFIX,monitorware.com,Proxy
 HOST-SUFFIX,monlamit.org,Proxy
@@ -4011,6 +4015,7 @@ HOST-SUFFIX,onmoon.com,Proxy
 HOST-SUFFIX,onmoon.net,Proxy
 HOST-SUFFIX,onmypc.biz,Proxy
 HOST-SUFFIX,onmypc.info,Proxy
+HOST-SUFFIX,onmypc.net,Proxy
 HOST-SUFFIX,onmypc.org,Proxy
 HOST-SUFFIX,onmypc.us,Proxy
 HOST-SUFFIX,onthehunt.com,Proxy
@@ -4018,7 +4023,6 @@ HOST-SUFFIX,ontrac.com,Proxy
 HOST-SUFFIX,oopsforum.com,Proxy
 HOST-SUFFIX,ooyala.com,Proxy
 HOST-SUFFIX,open.com.hk,Proxy
-HOST-SUFFIX,openai.com,Proxy
 HOST-SUFFIX,openallweb.com,Proxy
 HOST-SUFFIX,opendemocracy.net,Proxy
 HOST-SUFFIX,opendn.xyz,Proxy
@@ -4069,6 +4073,7 @@ HOST-SUFFIX,over-blog.com,Proxy
 HOST-SUFFIX,overcast.fm,Proxy
 HOST-SUFFIX,overdaily.org,Proxy
 HOST-SUFFIX,overplay.net,Proxy
+HOST-SUFFIX,oversea.istarshine.com,Proxy
 HOST-SUFFIX,ovi.com,Proxy
 HOST-SUFFIX,ovpn.com,Proxy
 HOST-SUFFIX,ow.ly,Proxy
@@ -4245,7 +4250,6 @@ HOST-SUFFIX,pobieramy.top,Proxy
 HOST-SUFFIX,podbean.com,Proxy
 HOST-SUFFIX,podcast.co,Proxy
 HOST-SUFFIX,podictionary.com,Proxy
-HOST-SUFFIX,poe.com,Proxy
 HOST-SUFFIX,pokemon.com,Proxy
 HOST-SUFFIX,pokerstars.com,Proxy
 HOST-SUFFIX,pokerstars.net,Proxy
@@ -4775,6 +4779,7 @@ HOST-SUFFIX,sis001.com,Proxy
 HOST-SUFFIX,sis001.us,Proxy
 HOST-SUFFIX,site2unblock.com,Proxy
 HOST-SUFFIX,site90.net,Proxy
+HOST-SUFFIX,sitebro.tw,Proxy
 HOST-SUFFIX,sitekreator.com,Proxy
 HOST-SUFFIX,sitemaps.org,Proxy
 HOST-SUFFIX,six-degrees.io,Proxy
@@ -5376,6 +5381,7 @@ HOST-SUFFIX,torguard.net,Proxy
 HOST-SUFFIX,torlock.com,Proxy
 HOST-SUFFIX,torproject.org,Proxy
 HOST-SUFFIX,torrentkitty.tv,Proxy
+HOST-SUFFIX,torrentmac.net,Proxy
 HOST-SUFFIX,torrentprivacy.com,Proxy
 HOST-SUFFIX,torrentproject.se,Proxy
 HOST-SUFFIX,torrenty.org,Proxy
@@ -6108,6 +6114,7 @@ HOST-SUFFIX,xiaod.in,Proxy
 HOST-SUFFIX,xiaohexie.com,Proxy
 HOST-SUFFIX,xiaolan.me,Proxy
 HOST-SUFFIX,xiaoma.org,Proxy
+HOST-SUFFIX,xiaomi.eu,Proxy
 HOST-SUFFIX,xiaxiaoqiang.net,Proxy
 HOST-SUFFIX,xiezhua.com,Proxy
 HOST-SUFFIX,xihua.es,Proxy
@@ -6374,7 +6381,6 @@ HOST-KEYWORD,sci-hub,Proxy
 HOST-KEYWORD,skydrive,Proxy
 HOST-KEYWORD,spotify,Proxy
 HOST-KEYWORD,telegram,Proxy
-HOST-KEYWORD,tesla,Proxy
 HOST-KEYWORD,tiktok,Proxy
 HOST-KEYWORD,ttvnw,Proxy
 HOST-KEYWORD,twitter,Proxy
@@ -6418,6 +6424,7 @@ IP-CIDR,129.134.0.0/17,Proxy
 IP-CIDR,129.226.0.0/16,Proxy
 IP-CIDR,13.32.0.0/15,Proxy
 IP-CIDR,13.35.0.0/17,Proxy
+IP-CIDR,14.102.250.18/31,Proxy
 IP-CIDR,147.92.128.0/17,Proxy
 IP-CIDR,149.154.160.0/20,Proxy
 IP-CIDR,157.240.0.0/17,Proxy
@@ -6428,6 +6435,7 @@ IP-CIDR,173.192.222.160/27,Proxy
 IP-CIDR,173.192.231.32/27,Proxy
 IP-CIDR,173.194.0.0/16,Proxy
 IP-CIDR,173.252.64.0/18,Proxy
+IP-CIDR,174.142.105.153/32,Proxy
 IP-CIDR,174.37.0.0/16,Proxy
 IP-CIDR,179.60.192.0/22,Proxy
 IP-CIDR,18.184.0.0/15,Proxy
@@ -6438,7 +6446,6 @@ IP-CIDR,180.163.150.162/32,Proxy
 IP-CIDR,180.163.150.34/32,Proxy
 IP-CIDR,180.163.151.162/32,Proxy
 IP-CIDR,180.163.151.34/32,Proxy
-IP-CIDR,183.131.48.0/20,Proxy
 IP-CIDR,184.173.128.0/17,Proxy
 IP-CIDR,185.60.216.0/22,Proxy
 IP-CIDR,203.104.103.0/24,Proxy
@@ -6471,8 +6478,13 @@ IP-CIDR,54.230.156.0/22,Proxy
 IP-CIDR,54.242.0.0/15,Proxy
 IP-CIDR,54.93.0.0/16,Proxy
 IP-CIDR,66.220.144.0/20,Proxy
+IP-CIDR,67.220.91.15/32,Proxy
+IP-CIDR,67.220.91.18/32,Proxy
+IP-CIDR,67.220.91.23/32,Proxy
 IP-CIDR,69.171.224.0/19,Proxy
 IP-CIDR,69.63.176.0/20,Proxy
+IP-CIDR,69.65.19.160/32,Proxy
+IP-CIDR,72.52.81.22/32,Proxy
 IP-CIDR,74.119.76.0/22,Proxy
 IP-CIDR,74.125.0.0/16,Proxy
 IP-CIDR,74.86.0.0/16,Proxy

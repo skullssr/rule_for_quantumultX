@@ -9,3 +9,8 @@ payload:
   - DOMAIN,jpvm.zqzess.top
   - DOMAIN,jpnet.zqzess.top
   - DOMAIN-SUFFIX,whitemoon.top
+  - DOMAIN-SUFFIX,iwhalecloud.com
+  - DOMAIN-SUFFIX, trello.com
+  - DOMAIN-SUFFIX, termius.com
+  - DOMAIN,apps.mzstatic.com
+  - DOMAIN,h.trace.qq.com
