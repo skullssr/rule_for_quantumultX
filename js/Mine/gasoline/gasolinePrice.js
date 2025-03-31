@@ -42,12 +42,15 @@ $.get(option, function (error, response, data) {
     let jsonObj = JSON.parse(response.body)
     const group = jsonObj.group
     group.forEach(function (i) {
-        if (i.location === locateInfo.location)
+        if (i.location.includes(locateInfo.location) || locateInfo.location.includes(i.location))
             for (let x = 0; x < 4; x++) {
                 notifyContent += jsonObj.title[x].replace('汽油', ':').replace('柴油', ':') + i.data[x] + ', '
             }
     })
     notifyContent = notifyContent.substring(0, notifyContent.length - 2)
+    if(jsonObj.message === null) {
+        jsonObj.message = ''
+    }
     $.isSurge() ? body = {
         title: '⛽️' + locateInfo.location + '今日油价',
         content: notifyContent + '\n' + jsonObj.message,
